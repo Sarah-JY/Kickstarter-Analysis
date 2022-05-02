@@ -20,10 +20,7 @@ In the Theater Outcomes by Launch Date analysis, I found the theater is the most
 In the Outcome based on Goals, I found the plays with a goal that has less than $5,000 with a 73% success rate. 
 Therefore, it is best to launch the theater campaigns in May and June with less than $5000.  
 
-###### Data Limitations: 
-The data loaded in with a different currency unit, would be more accurate to put in the same unit.  Also, the theater outcomes are based on launch date, but the plays outcome based on the goals.  
-
-####### Additional Graph: 
-The other tables or graph we could consider to review more is the different subcategory for theather in US.
+##### Data Limitation and additional Graph:
+The data loaded in with a different currency unit, would be more accurate to put in the same unit.  Also, the theater outcomes are based on launch date, but the plays outcome based on the goals.  The other tables or graph we could consider to review more is the different subcategory for theather in US.
 
 ![image](https://user-images.githubusercontent.com/103588178/166179112-bb62f592-e5f2-4cbf-8563-1f3252b5fa6a.png)
