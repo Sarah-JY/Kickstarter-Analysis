@@ -21,6 +21,6 @@ In the Outcome based on Goals, I found the plays with a goal that has less than 
 Therefore, it is best to launch the theater campaigns in May and June with less than $5000.  
 
 ##### Data Limitation and additional Graph:
-The data loaded in with a different currency unit, would be more accurate to put in the same unit.  Also, the theater outcomes are based on launch date, but the plays outcome based on the goals.  The other table or graph we could consider to review more is the different subcategory for theater in US.
+The data loaded in with a different currency unit, would be more accurate to put in the same unit.  Also, the theater outcomes are based on launch date, but the plays outcome based on the goals.  The other table or graph we could consider to review more is the different subcategories for theater in the US.
 
 ![image](https://user-images.githubusercontent.com/103588178/166179112-bb62f592-e5f2-4cbf-8563-1f3252b5fa6a.png)
