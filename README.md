@@ -15,7 +15,7 @@ In the Outcomes Based on Goals, I also used the Kickstarter dataset. I created 8
 The first challenge I faced was to convert the unix timestamp to readable standard date format. 
 Another challenge I faced is deleting the data sheet for Successful US Kickstarters, Failed US Kickstarters will affect the data on the Outcome based on Goals sheet.  Therefore, I decided to use the COUNTIFS function for all the ranges of data from the original dataset. It took me some time to create the equation and get the correct result.  
 
-##### Results: 
+##### Results:
 In the Theater Outcomes by Launch Date analysis, I found the theater is the most successful campaign.  The most successful month of the Kickstarter campaign was launched in May and June; all outcomes had roughly the same number of failed campaigns launched. 
 In the Outcome based on Goals, I found the plays with a goal that has less than $5,000 with a 73% success rate. 
 Therefore, it is best to launch the theater campaigns in May and June with less than $5000.  
